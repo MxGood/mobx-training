@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Category 1",
+        "completed": false,
+        "categoryId": 42,
+        "children": [
+            {
+                "title": "Category 1 1",
+                "completed": false,
+                "categoryId": 2,
+                "children": [
+                    {
+                        "title": "Category 1 1 1",
+                        "completed": false,
+                        "categoryId": 4
+                    }
+                ]
+            },
+            {
+                "title": "Category 1 2",
+                "completed": false,
+                "categoryId": 3
+            }
+        ]
+    },
+    {
+        "title": "Category 2",
+        "completed": true,
+        "categoryId": 1,
+        "children": [
+            {
+                "title": "Category 2 1",
+                "completed": false,
+                "categoryId": 5,
+                "children": [
+                    {
+                        "title": "Category 2 1 1",
+                        "completed": false,
+                        "categoryId": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

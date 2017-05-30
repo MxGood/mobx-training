@@ -1,0 +1,34 @@
+.category-title,
+.glyphicon {
+    cursor: pointer;
+}
+
+.glyphicon {
+    margin: 0 5px;
+}
+
+.row {
+    margin-right: -5px;
+    margin-left: -5px;
+}
+
+.progress-container {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+body {
+    min-width: 400px;
+}
+
+.vertical-space {
+    margin: 0 0 10px;
+}
+
+form textarea {
+     resize: vertical;
+ }
+
+span {
+    overflow: hidden;
+}
